@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7c2d5d9-e5dd-4a3a-ac98-34f092e3a6d7" name="Changes" comment="Colecciones">
+      <change beforePath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bronsito/colecciones/ColeccionTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bronsito/colecciones/ColeccionTreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bronsito/interfacesGraficas/PrimerJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bronsito/interfacesGraficas/PrimerJFrame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/Pruebas/JAVA/Pildoras/untitled" value="3Bwt1lDfPYUOMuaAiiSLAmWmBCU" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedChatMode">
+    <option name="chatModeId" value="Ask" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Toleflaco&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Toleflaco/PruebasJava.git&quot;,
+    &quot;accountId&quot;: &quot;1c4d1dde-c9d8-47bc-a207-4cd5efc86ea8&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-21.0.10/lib/src.zip!/java.desktop/java/awt/event/WindowAdapter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk-21.0.10/lib/src.zip!/java.desktop/java/awt/event/WindowListener.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3Bwt1lDfPYUOMuaAiiSLAmWmBCU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagramas.executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.App2.executor": "Run",
+    "Application.CalculoPotencia.executor": "Run",
+    "Application.ClientesBancarios.executor": "Run",
+    "Application.ColeccionTreeSet.executor": "Run",
+    "Application.CondicionalAnidados.executor": "Run",
+    "Application.CondicionalIF.executor": "Run",
+    "Application.DeclaracionConstantes.executor": "Run",
+    "Application.DibujandoJFrame.executor": "Run",
+    "Application.EjemploArrays.executor": "Run",
+    "Application.EjemploArrays2D.executor": "Run",
+    "Application.EjemploArraysDimensiones.executor": "Run",
+    "Application.EjemploDoWhile.executor": "Run",
+    "Application.EjemploEvento1.executor": "Run",
+    "Application.EjemploFor.executor": "Run",
+    "Application.EjemploInterface1.executor": "Run",
+    "Application.EjemploMap.executor": "Run",
+    "Application.EjemploMayor.executor": "Run",
+    "Application.EjemploMayor2.executor": "Run",
+    "Application.EjemploSet.executor": "Run",
+    "Application.EjemploWhile.executor": "Run",
+    "Application.Ejercicio1.executor": "Run",
+    "Application.Ejercicio1POO.executor": "Debug",
+    "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
+    "Application.Ejercicio4.executor": "Run",
+    "Application.Ejercicio5.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
+    "Application.Ejercicio8.executor": "Run",
+    "Application.EjercicioArrayList.executor": "Run",
+    "Application.Ejercico3.executor": "Run",
+    "Application.EntradaJOptionPane.executor": "Run",
+    "Application.EntradaScanner.executor": "Run",
+    "Application.EscribiendoMarco.executor": "Run",
+    "Application.EventoFoco.executor": "Run",
+    "Application.EventoRaton.executor": "Run",
+    "Application.EventoVentana.executor": "Run",
+    "Application.EventosTeclado.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.LetrasLocal.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainEmpleados.executor": "Run",
+    "Application.ManipulaCadenas.executor": "Run",
+    "Application.MayusculasInversas.executor": "Run",
+    "Application.MetodoGenerico.executor": "Run",
+    "Application.OWEjercicio1.executor": "Run",
+    "Application.OWEjercicio10.executor": "Run",
+    "Application.OWEjercicio2.executor": "Run",
+    "Application.OWEjercicio3.executor": "Run",
+    "Application.OWEjercicio4.executor": "Run",
+    "Application.OWEjercicio5.executor": "Run",
+    "Application.OWEjercicio6.executor": "Run",
+    "Application.OWEjercicio7.executor": "Run",
+    "Application.OWEjercicio8.executor": "Run",
+    "Application.OWEjercicio9.executor": "Run",
+    "Application.Palindromo.executor": "Run",
+    "Application.PesoIdeal.executor": "Run",
+    "Application.PracticaLinkedList.executor": "Run",
+    "Application.PrimerJFrame.executor": "Run",
+    "Application.PruebaLinkedList.executor": "Run",
+    "Application.PruebaTemporizador.executor": "Run",
+    "Application.PruebaTemporizador2.executor": "Run",
+    "Application.RaizCuadrada.executor": "Run",
+    "Application.RaizScanner.executor": "Run",
+    "Application.RedondeoNumerico.executor": "Run",
+    "Application.Repetido.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.Ternario.executor": "Run",
+    "Application.TipoLetra.executor": "Run",
+    "Application.UsoAlumnos.executor": "Run",
+    "Application.UsoColegio.executor": "Debug",
+    "Application.UsoEmpleado.executor": "Run",
+    "Application.UsoGridLayout.executor": "Run",
+    "Application.UsoLayouts.executor": "Run",
+    "Application.UsoLibro.executor": "Run",
+    "Application.UsoMapas.executor": "Run",
+    "Application.UsoMath.executor": "Run",
+    "Application.UsoMuestra.executor": "Run",
+    "Application.UsoPassword.executor": "Run",
+    "Application.UsoPersonas.executor": "Run",
+    "Application.UsoRectangulo.executor": "Run",
+    "Application.UsoSucursalPaquete.executor": "Run",
+    "Application.UsoVehiculos.executor": "Run",
+    "Application.Validador.executor": "Run",
+    "Application.ValidarEmail.executor": "Run",
+    "Application.VariasFuentes.executor": "Run",
+    "Application.VariosOyentes.executor": "Run",
+    "Application.Vocales.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.google.cloudcode.ide_session_index": "20260417_0000",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Pruebas/JAVA/Pildoras/untitled/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bronsito.openwebinars.curso1.interfaces.ejercicios" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronsito.eventos.ejercicios.Ejercicio1" />
+      <module name="pildoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronsito.eventos.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronsito.eventos.ejercicios.Ejercicio2" />
+      <module name="pildoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronsito.eventos.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsoLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronsito.layouts.UsoLayouts" />
+      <module name="pildoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronsito.layouts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariasFuentes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronsito.eventos.VariasFuentes" />
+      <module name="pildoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronsito.eventos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariosOyentes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronsito.eventos.VariosOyentes" />
+      <module name="pildoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronsito.eventos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UsoLayouts" />
+        <item itemvalue="Application.Ejercicio1" />
+        <item itemvalue="Application.Ejercicio2" />
+        <item itemvalue="Application.VariosOyentes" />
+        <item itemvalue="Application.VariasFuentes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7c2d5d9-e5dd-4a3a-ac98-34f092e3a6d7" name="Changes" comment="" />
+      <created>1775411749507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775411749507</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Colecciones">
+      <option name="closed" value="true" />
+      <created>1776234535574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776234535574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Colecciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Colecciones" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bronsito/poo/Ejercicio1POO.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bronsito/pooAbstractas/EmpleadoComision.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
