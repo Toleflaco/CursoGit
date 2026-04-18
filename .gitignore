@@ -1,2 +1,19 @@
+# Archivos compilados de Java (no necesarios en Git)
+*.class
+*.jar
+*.war
+
+# Carpeta de salida de compilación
+bin/
+build/
+out/
+
+# Configuraciones de IntelliJ IDEA
 .idea/
-.class
+*.iml
+*.iws
+*.ipr
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
